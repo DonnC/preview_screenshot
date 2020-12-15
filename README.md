@@ -7,14 +7,14 @@ Screenshots taken can be edited or uploaded as is to `play store`
 - ❗ `supports android for now`
 
 ## demo vid
-![demo.mp4](demo/demo.gif)
+<img src="demo/demo.gif" width="420" height="720"/>
 
 ## Saved Screenshots
 <table>
    <tr>
       <td> screenshot 1</td>
       <td> screenshot 2</td>
-      <td> screenshpt 3</td>
+      <td> screenshot 3</td>
    </tr>
    <tr>
       <td><img src="demo/demo1.png"</td>
